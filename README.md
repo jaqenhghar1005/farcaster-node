@@ -20,3 +20,11 @@ docker/
 monitoring/
 .github/
 ```
+## Advanced Features
+
+- Prometheus monitoring
+- Grafana dashboards
+- Backup automation
+- Health diagnostics
+- Security hardening
+- Container monitoring
